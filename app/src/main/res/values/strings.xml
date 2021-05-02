@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">INTI Medicine</string>
+    <string name="survey_desc">Our goal is to learn and predict which geo</string>
+    <string name="inti_med">INTI Medicine</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_settings2">SettingsActivity2</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+
+
+    <string name="safe">You are unlikely to have coronavirus</string>
+    <string name="safe_desc">If you develop any of these symptomes, report them on this app
+    and book a free test. Only get a test if you have coranavirus symptoms.</string>
+    <string name="safe_info">For further advice, please contact:</string>
+    <string name="danger">You may have coronavirus</string>
+    <string name="danger_desc">Your symptoms suggest you may have coronavirus. Please
+        isolate yourself and anyone else in your household. That means staying at home with
+    no visitors. You should also book a free test immediately. If you are under 18, you are
+    advised to show this message to a trusted adult.</string>
+    <string name="danger_info">Please stay at home to keep yourself and others safe.</string>
+
+    <string name="high_temperature_desc">
+        This means that you feel hot to touch on your chest or back - you don\'t need to measure your temparature with a thermometer.
+    </string>
+
+    <string name="continuous_cough_desc">
+        This means coughing a lot for more than an hour, or three or more coughing episodes in 24 hours (if you usually have a cough, it may be worse then usual).
+    </string>
+
+    <string name="change_taste_desc">
+        This means you have noticed that you cannot smell or taste anything, or that things smell or taste different to normal.
+    </string>
+    <string name="i_don_t_have_any_of_these_symptoms"><u>I don\'t have any of these symptoms</u></string>
+
+</resources>
